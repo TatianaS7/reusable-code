@@ -1,0 +1,18 @@
+#searchQuery {
+    width: 40%;
+    border-radius: 10px;
+    border-width: 1px;
+    height: 40px;
+    padding: 10px;
+    background: rgb(244, 243, 240);
+    margin-left: 20px;
+  }
+  
+.modal-content {
+    height: 80%;
+    overflow: scroll;
+  }
+
+  #searchResults {
+    margin: 20px;
+}

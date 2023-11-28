@@ -1,0 +1,7 @@
+# Files stored in .gitignore are excluded from version control
+
+# node_modules/
+
+# .env
+
+# dbConfig.js
